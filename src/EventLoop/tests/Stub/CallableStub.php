@@ -1,6 +1,6 @@
 <?php
 
-namespace React\Tests\Socket\Stub;
+namespace React\Tests\EventLoop\Stub;
 
 class CallableStub
 {

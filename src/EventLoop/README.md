@@ -1,5 +1,10 @@
 # EventLoop Component
 
+[![Build Status](https://travis-ci.org/reactphp/event-loop.png)](https://travis-ci.org/reactphp/event-loop)
+[![Latest Stable Version](https://poser.pugx.org/react/event-loop/v/stable.png)](https://packagist.org/packages/react/event-loop)
+[![Coverage Status](https://coveralls.io/repos/reactphp/event-loop/badge.png)](https://coveralls.io/r/reactphp/event-loop)
+[![License](https://poser.pugx.org/react/event-loop/license.png)](https://packagist.org/packages/react/event-loop)
+
 Event loop abstraction layer that libraries can use for evented I/O.
 
 In order for async based libraries to be interoperable, they need to use the

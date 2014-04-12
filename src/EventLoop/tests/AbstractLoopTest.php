@@ -2,7 +2,7 @@
 
 namespace React\Tests\EventLoop;
 
-use React\Tests\Socket\TestCase;
+use React\Tests\EventLoop\TestCase;
 
 abstract class AbstractLoopTest extends TestCase
 {

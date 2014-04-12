@@ -12,7 +12,10 @@
         "ext-libev": "*"
     },
     "autoload": {
-        "psr-4": { "React\\EventLoop\\": "" }
+        "psr-4": {
+            "React\\EventLoop\\": "src",
+            "React\\Tests\\EventLoop\\": "tests"
+        }
     },
     "extra": {
         "branch-alias": {
